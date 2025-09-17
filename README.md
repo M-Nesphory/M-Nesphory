@@ -38,14 +38,25 @@ I'm the guy you go to turn messy data into information. I'm the guy to convert t
 </table>
 
 <h1 align="center">Contact Me</h1>
-<p align="center">
-  <a href = "https://www.linkedin.com/in/nesphory-mwakale/">
-    <img src = "https://cdn.svglogos.dev/logos/linkedin-icon.svg" width="50" height="50"/>
-  </a>
-  <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=nrmmwakale07@gmail.com" target="_blank">
-    <img src = "https://cdn.svglogos.dev/logos/google-gmail.svg" width="50" height="50"/>
-  </a>
-  <a href = "https://github.com/M-Nesphory" target="_blank">
-    <img src = "https://cdn.svglogos.dev/logos/github-icon.svg" width="50" height="50"/>
-  </a>
+<table align="center">
+  <tr>
+    <td align="center" width="60">
+      <a href="https://www.linkedin.com/in/nesphory-mwakale/">
+        <img src="https://cdn.svglogos.dev/logos/linkedin-icon.svg" width="50" height="50"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nrmmwakale07@gmail.com" target="_blank">
+        <img src="https://cdn.svglogos.dev/logos/google-gmail.svg" width="50" height="50"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://github.com/M-Nesphory" target="_blank">
+        <img src="https://cdn.svglogos.dev/logos/github-icon.svg" width="50" height="50"/>
+      </a>
+    </td>
+  </tr>
+</table>
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=M-Nesphory" alt="visitors"/>
 </p>
