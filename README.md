@@ -1,27 +1,27 @@
-## Hi there, I'm Mwakale
+<h1 align="center">Hi there, I'm Mwakale</h1>
 
-- Experienced Data Analyst dipping their feet into Data Science and Machine Learning.
+Experienced Data Analyst dipping their feet into Data Science and Machine Learning.
 
-I'm the guy you go to turn messy data into information. I'm the guy to convert that information to insights for you to make sound decisions. 
-From data cleaning to data visualization and presentation, I am now hacking my way through machine learning.
+I'm the guy you go to turn messy data into information. I'm the guy to convert that information to insights for you to make sound decisions. From data cleaning to data visualization and presentation, I am now hacking my way through machine learning.
 
-## Tech Stack
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/2896b506-c349-406d-bd52-ab4d2829a447" />
+<h1 align="center">Tech Stack</h1>
+<p align="center">
+  <img src="https://www.svgrepo.com/show/373589/excel.svg" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="70" height="70"/>
+  <img src="https://cdn.svglogos.dev/logos/python.svg" width="70" height="70"/>
+  <img src="https://cdn.svglogos.dev/logos/numpy.svg" width="70" height="70"/>
+  <img src="https://cdn.svglogos.dev/logos/pandas-icon.svg" width="70" height="70"/>
+  <img src="https://cdn.svglogos.dev/logos/matplotlib-icon.svg" width="70" height="70"/>
+  <img src="https://cdn.svglogos.dev/logos/visual-studio-code.svg" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="70" height="70"/>
+  <img src="https://cdn.svglogos.dev/logos/microsoft-power-bi.svg" width="70" height="70"/>
+  <img src="https://cdn.svglogos.dev/logos/tableau-icon.svg" width="70" height="70"/>
+</p>
 
-
-
-
-<!--
-**M-Nesphory/M-Nesphory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Projects I'm Proud Of</h1>
+<table>
+  <tr>
+    <td>
+      <h3>
+  </tr>
+</table>
