@@ -4,7 +4,7 @@ Experienced Data Analyst dipping their feet into Data Science and Machine Learni
 
 I'm the guy you go to turn messy data into information. I'm the guy to convert that information to insights for you to make sound decisions. From data cleaning to data visualization and presentation, I am now hacking my way through machine learning.
 
-<h1 align="center">Tech Stack</h1>
+<h1 align="center">Tech Arsenal</h1>
 <p align="center">
   <img src="https://www.svgrepo.com/show/373589/excel.svg" width="70" height="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="70" height="70"/>
@@ -19,7 +19,7 @@ I'm the guy you go to turn messy data into information. I'm the guy to convert t
 </p>
 
 <h1 align="center">Projects I'm Proud Of</h1>
-<table>
+<table align="center">
   <tr>
     <td>
       <a href="https://github.com/M-Nesphory/Aviation_Accident_Project.git">
@@ -37,4 +37,15 @@ I'm the guy you go to turn messy data into information. I'm the guy to convert t
   </tr>
 </table>
 
-
+<h1 align="center">Contact Me</h1>
+<p align="center">
+  <a href = "https://www.linkedin.com/in/nesphory-mwakale/">
+    <img src = "https://cdn.svglogos.dev/logos/linkedin-icon.svg" width="50" height="50"/>
+  </a>
+  <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=nrmmwakale07@gmail.com" target="_blank">
+    <img src = "https://cdn.svglogos.dev/logos/google-gmail.svg" width="50" height="50"/>
+  </a>
+  <a href = "https://github.com/M-Nesphory" target="_blank">
+    <img src = "https://cdn.svglogos.dev/logos/github-icon.svg" width="50" height="50"/>
+  </a>
+</p>
