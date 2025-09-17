@@ -22,6 +22,19 @@ I'm the guy you go to turn messy data into information. I'm the guy to convert t
 <table>
   <tr>
     <td>
-      <h3>
+      <a href="https://github.com/M-Nesphory/Aviation_Accident_Project.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Nesphory&repo=Aviation_Accident_Project&theme=dark&hide_border=true&border_radius=10"/>
+      </a>
+    </td>
+    <td>
+      <h3>Aviation Accident Visualizer</h3>
+      <p>
+        Visualizing aviation accidents to provide insights for safer skies
+        <p><b>Tech:</b> Python, Pandas, Tableau</p>
+        <p><b>Link:</b> <a href = "https://github.com/M-Nesphory/Aviation_Accident_Project.git">Aviation Accident Project</a></p>
+      </p>
+    </td>
   </tr>
 </table>
+
+
