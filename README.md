@@ -6,16 +6,16 @@ I'm the guy you go to turn messy data into information. I'm the guy to convert t
 
 <h1 align="center">Tech Arsenal</h1>
 <p align="center">
-  <img src="https://www.svgrepo.com/show/373589/excel.svg" width="70" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="70" height="70"/>
-  <img src="https://cdn.svglogos.dev/logos/python.svg" width="70" height="70"/>
-  <img src="https://cdn.svglogos.dev/logos/numpy.svg" width="70" height="70"/>
-  <img src="https://cdn.svglogos.dev/logos/pandas-icon.svg" width="70" height="70"/>
-  <img src="https://cdn.svglogos.dev/logos/matplotlib-icon.svg" width="70" height="70"/>
-  <img src="https://cdn.svglogos.dev/logos/visual-studio-code.svg" width="70" height="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="70" height="70"/>
-  <img src="https://cdn.svglogos.dev/logos/microsoft-power-bi.svg" width="70" height="70"/>
-  <img src="https://cdn.svglogos.dev/logos/tableau-icon.svg" width="70" height="70"/>
+  <img src="https://www.svgrepo.com/show/373589/excel.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.svglogos.dev/logos/python.svg" width="50" height="50"/>
+  <img src="https://cdn.svglogos.dev/logos/numpy.svg" width="50" height="50"/>
+  <img src="https://cdn.svglogos.dev/logos/pandas-icon.svg" width="50" height="50"/>
+  <img src="https://cdn.svglogos.dev/logos/matplotlib-icon.svg" width="50" height="50"/>
+  <img src="https://cdn.svglogos.dev/logos/visual-studio-code.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"/>
+  <img src="https://cdn.svglogos.dev/logos/microsoft-power-bi.svg" width="50" height="50"/>
+  <img src="https://cdn.svglogos.dev/logos/tableau-icon.svg" width="50" height="50"/>
 </p>
 
 <h1 align="center">Projects I'm Proud Of</h1>
